@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92a195e2-6b7d-4a39-8e26-66467f4e8a24" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/怎样画马.png" afterDir="false" />
-    </list>
+    <list default="true" id="92a195e2-6b7d-4a39-8e26-66467f4e8a24" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -87,11 +84,12 @@
       <option name="presentableId" value="Default" />
       <updated>1551942162670</updated>
       <workItem from="1551942164069" duration="54000" />
+      <workItem from="1551942231686" duration="244000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54000" />
+    <option name="totallyTimeSpent" value="298000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="39" y="23" width="1401" height="877" extended-state="0" />
@@ -103,7 +101,7 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.32948717" />
       <window_info anchor="bottom" x="46" y="45" width="1374" height="592" id="Version Control" order="10" sideWeight="0.4992722" weight="0.26923078" />
       <window_info anchor="right" id="Structure" order="3" sideWeight="0.425" side_tool="true" weight="0.18107909" />
-      <window_info anchor="right" id="Mongo Explorer" />
+      <window_info anchor="right" id="Mongo Explorer" order="4" />
       <window_info active="true" anchor="bottom" x="1265" y="710" width="710" height="346" id="Terminal" order="8" visible="true" weight="0.40686923" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="1" sideWeight="0.43196005" side_tool="true" weight="0.20451237" />
